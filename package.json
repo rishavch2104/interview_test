@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "jest-cli": "^26.0.1",
+    "moment": "^2.26.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
