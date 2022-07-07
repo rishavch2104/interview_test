@@ -3,7 +3,7 @@
   "dependencies": {
     "jest": "^26.0.1",
     "jest-cli": "^26.0.1",
-    "moment": "^2.26.0"
+    "moment": "^2.29.4"
   },
   "scripts": {
     "test": "jest"
